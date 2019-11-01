@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    background: #efefef;
+    color: #5f5f5f;
+}
+.container{
+    width: 1200px;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.heading{
+    text-align: center;
+}
+h1{
+    margin: 0;
+    font-size: 5em;
+    color: #5f5f5f;
+    letter-spacing: 6px;
+}
+p{
+    font-size: 20px;
+    line-height: 30px;
+}
+h4{
+    font-size: 18px;
+    text-transform: uppercase;
+    color: seagreen;
+}
+img{
+    width: 300px;
+}
+
+.table{
+    width: 80%;
+    margin: auto;
+}
+table{
+    width: 100%;
+    background: #efefef;
+}
+tr{}
+th{
+    font-size: 25px;
+    background: seagreen;
+    color: #fff;
+}
+td{
+    font-size: 18px;
+}
+
